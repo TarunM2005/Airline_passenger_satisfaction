@@ -221,10 +221,8 @@ Use the **sidebar** to navigate between the four pages and apply demographic/fli
 
 ## 👤 Author
 
-**Ram Kumar G** <br>
-**Airline Satisfaction Analytics Project** <br>
-**LinkedIn:** [Ram Kumar G](https://www.linkedin.com/in/ramkumar-g-245685302?utm_source=share_via&utm_content=profile&utm_medium=member_android) <br>
-**Email:** ramkumar91847@gmail.com  
+Tarun M
+
   
 
 ---
